@@ -19,3 +19,11 @@ A responsive three-section landing website for Sutura by Basmah, with service di
 3. Open repository Settings → Pages.
 4. Select deployment from the `main` branch and `/ (root)`.
 5. Save and wait for the Pages URL to become available.
+
+
+## Latest visual update
+- Replaced the placeholder monogram with the supplied Sutura by Basmah logo.
+- Removed the location/coverage section and location mentions.
+- Added local fashion images for Ankara, occasion gowns, two-piece styles, corset inspiration, and children’s wear.
+- Each service category now features a pair of images. The child-fashion images are illustrative AI-generated examples; the other garment photos are supplied reference photos. Replace any illustrative image with Basmah’s own work when available.
+- All appointment and enquiry buttons continue to open WhatsApp directly.
