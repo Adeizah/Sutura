@@ -27,3 +27,6 @@ A responsive three-section landing website for Sutura by Basmah, with service di
 - Added local fashion images for Ankara, occasion gowns, two-piece styles, corset inspiration, and children’s wear.
 - Each service category now features a pair of images. The child-fashion images are illustrative AI-generated examples; the other garment photos are supplied reference photos. Replace any illustrative image with Basmah’s own work when available.
 - All appointment and enquiry buttons continue to open WhatsApp directly.
+
+
+Image update: the homepage uses an editorial Ankara fashion hero. Gallery images have been deduplicated, and photos carrying visible third-party brand logos/watermarks have been excluded from the published galleries. These are illustrative style references, not claims of completed client work.
